@@ -1,2 +1,4 @@
 name: Akash Madhusudan's Personal Page
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
