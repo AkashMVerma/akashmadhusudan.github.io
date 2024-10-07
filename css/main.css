@@ -46,31 +46,31 @@ body2{
     color: #6F8BA4;
     margin-top:20px;}
 
-.section {
+section {
     padding: 100px 0;
     position: relative;
 }
 
-.gray-bg {
+gray-bg {
     background-color: #f5f5f5;
 }
 /* Contact Us
 ---------------------*/
-.contact-name {
+contact-name {
   margin-bottom: 30px;
 }
-.contact-name h5 {
+contact-name h5 {
   font-size: 22px;
   color: #20247b;
   margin-bottom: 5px;
   font-weight: 600;
 }
-.contact-name p {
+contact-name p {
   font-size: 18px;
   margin: 0;
 }
 
-.social-share a {
+social-share a {
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -79,20 +79,20 @@ body2{
   text-align: center;
   margin-right: 10px;
 }
-.social-share .twitter {
+social-share twitter {
   box-shadow: 0 8px 30px -4px rgba(234, 76, 137, 0.5);
   background-color: #ea4c89;
 }
-.social-share .scholar {
+social-share scholar {
   box-shadow: 0 8px 30px -4px rgba(0, 103, 255, 0.5);
   background-color: #0067ff;
 }
-.social-share .linkedin {
+social-share linkedin {
   box-shadow: 0 8px 30px -4px rgba(1, 119, 172, 0.5);
   background-color: #0177ac;
 }
 
-.contact-form .form-control {
+contact-form form-control {
   border: none;
   border-bottom: 1px solid #20247b;
   background: transparent;
@@ -100,22 +100,22 @@ body2{
   padding-left: 0;
   box-shadow: none !important;
 }
-.contact-form .form-control:focus {
+contact-form form-control:focus {
   border-bottom: 1px solid #fc5356;
 }
-.contact-form .form-control.invalid {
+contact-form form-control.invalid {
   border-bottom: 1px solid #ff0000;
 }
-.contact-form .send {
+contact-form send {
   margin-top: 20px;
 }
 @media (max-width: 767px) {
-  .contact-form .send {
+  contact-form send {
     margin-bottom: 20px;
   }
 }
 
-.section-title h2 {
+section-title h2 {
     font-weight: 700;
     color: #20247b;
     font-size: 45px;
@@ -123,13 +123,13 @@ body2{
     border-left: 5px solid #fc5356;
     padding-left: 15px;
 }
-.section-title {
+section-title {
     padding-bottom: 45px;
 }
-.contact-form .send {
+contact-form send {
     margin-top: 20px;
 }
-.px-btn {
+px-btn {
     padding: 0 50px 0 20px;
     line-height: 60px;
     position: relative;
@@ -138,7 +138,7 @@ body2{
     background: none;
     border: none;
 }
-.px-btn:before {
+px-btn:before {
     content: "";
     position: absolute;
     top: 0;
@@ -155,7 +155,7 @@ body2{
     width: 60px;
     height: 60px;
 }
-.px-btn .arrow {
+px-btn arrow {
     width: 13px;
     height: 2px;
     background: currentColor;
@@ -166,7 +166,7 @@ body2{
     margin: auto;
     right: 25px;
 }
-.px-btn .arrow:after {
+px-btn arrow:after {
     width: 8px;
     height: 8px;
     border-right: 2px solid currentColor;
