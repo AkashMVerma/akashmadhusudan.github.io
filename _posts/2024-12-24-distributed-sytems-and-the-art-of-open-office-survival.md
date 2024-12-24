@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Distributed Systems and the art of Open Office Survival"
-date: 2024-12-22
+date: 2024-12-24
 ---
 
 Sometimes, I feel like my office is a distributed system — not the kind that’s covered in textbooks like ``Introduction to Reliable and Secure Distributed Programming," but the kind where noise is the only reliable broadcast primitive.
